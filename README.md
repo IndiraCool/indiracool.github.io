@@ -3,3 +3,96 @@ My new repository.
 Indira Soaries, isoaries@my.waketech.edu
 I created this account because I am new to GitHub.
 I used GitHub Desktop to clone the repository by pressing the Clone Repository buttton.
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About Page template By Adobe Dreamweaver</title>
+<link href="AboutPageAssets/styles/aboutPageStyle.css" rel="stylesheet" type="text/css">
+
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
+<script>var __adobewebfontsappname__="dreamweaver"</script><script src="http://use.edgefonts.net/montserrat:n4:default;source-sans-pro:n2:default.js" type="text/javascript"></script>
+</head>
+
+<body>
+<!-- Header content -->
+<header>
+  <div class="profileLogo"> 
+    <!-- Profile logo. Add a img tag in place of <span>. -->
+    <p class="logoPlaceholder"><!-- <img src="logoImage.png" alt="sample logo"> --><span>LOGO</span></p>
+  </div>
+ 
+  <div class="profilePhoto socialNetworkNavBar"> 
+  <img src="WIN_20230502_19_38_15_Pro.jpg" width="179" height="100" alt="down"/></div>
+  <!-- Identity details -->
+  <section class="profileHeader">
+    <h1>Indira Soaries&nbsp;</h1>
+    <h3>REALLY AWESOME WEB DESIGNER</h3>
+    <hr>
+    <p>I like making websites because they are very interesting and imaginative. I can make any theme I want&nbsp; &nbsp;</p>
+  </section>
+  <!-- Links to Social network accounts -->
+  <aside class="socialNetworkNavBar">
+    <div class="socialNetworkNav"> 
+      <img src="download.jpeg"  alt="sample" width="100"> <!-- Add a Anchor tag with nested img tag here --></div>
+    <div class="socialNetworkNav"> 
+      <!-- Add a Anchor tag with nested img tag here --> 
+      <img src="OIP (3).jpeg"  alt="sample" width="102"> </div>
+    <div class="socialNetworkNav"> 
+      <!-- Add a Anchor tag with nested img tag here --> 
+      <img src="th (3).jpeg"  alt="sample" width="110"> </div>
+    <div class="socialNetworkNav"> 
+      <!-- Add a Anchor tag with nested img tag here --> 
+      <img src="th (7).jpeg"  alt="sample" width="109"> </div>
+  </aside>
+</header>
+<!-- content -->
+<section class="mainContent"> 
+  <!-- Contact details -->
+  <section class="section1">
+    <h2 class="sectionTitle">Content Holder 1</h2>
+    <hr class="sectionTitleRule">
+    <hr class="sectionTitleRule2">
+    <div class="section1Content">
+      <p><span>Email :</span> issoaries@gmail.com</p>
+      <p><span>Website : isjsoaries.com</span> </p>
+      <p><span>Phone :919-777-41-71</span> </p>
+      <p><span>Address :Raleigh, North Carolina</span> </p>
+    </div>
+  </section>
+  <!-- Previous experience details -->
+  <section class="section2">
+    <h2 class="sectionTitle">Content Holder 2</h2>
+    <hr class="sectionTitleRule">
+    <hr class="sectionTitleRule2">
+    <!-- First Title & company details  -->
+    <article class="section2Content">
+      <h2 class="sectionContentTitle">Website Industries, Inc.&nbsp;</h2>
+      <h3 class="sectionContentSubTitle">February 10, 2023</h3>
+      <p class="sectionContent"> I work here because ever since I was a teenager, I dreamt of becoming the best website designer in the entire world.&nbsp; </p>
+    </article>
+    <!-- Second Title & company details  -->
+    <article class="section2Content">
+      <h2 class="sectionContentTitle"> Title & Company</h2>
+      <h3 class="sectionContentSubTitle">Augst 1, 2023&nbsp; &nbsp;</h3>
+      <p class="sectionContent"> This job is meant for me. Every Sunday, I work here, just to get all the themes I need for our upcoming website.&nbsp; &nbsp; &nbsp; </p>
+    </article>
+    <!-- Replicate the above Div block to add more title and company details --> 
+  </section>
+  <!-- Links to expore your past projects and download your CV -->
+  <aside class="externalResourcesNav">
+    <div class="externalResources"> <a href="#" title="Download CV Link">DOWNLOAD CV</a> </div>
+    <span class="stretch"></span>
+    <div class="externalResources"><a href="#" title="Behance Link">BEHANCE</a> </div>
+    <span class="stretch"></span>
+    <div class="externalResources"><a href="#" title="Github Link">GITHUB</a> </div>
+  </aside>
+</section>
+<footer>
+  <hr>
+  <p class="footerDisclaimer">2023  Copyrights - <span>All Rights Reserved</span></p>
+  <p class="footerNote">Indira - <span>Email me</span></p>
+</footer>
+</body>
+</html>
