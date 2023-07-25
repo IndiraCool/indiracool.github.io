@@ -10,7 +10,6 @@ I used GitHub Desktop to clone the repository by pressing the Clone Repository b
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>About Page template By Adobe Dreamweaver</title>
 <link href="AboutPageAssets/styles/aboutPageStyle.css" rel="stylesheet" type="text/css">
-
 <!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
 <script>var __adobewebfontsappname__="dreamweaver"</script><script src="http://use.edgefonts.net/montserrat:n4:default;source-sans-pro:n2:default.js" type="text/javascript"></script>
 </head>
@@ -75,7 +74,7 @@ I used GitHub Desktop to clone the repository by pressing the Clone Repository b
     <!-- Second Title & company details  -->
     <article class="section2Content">
       <h2 class="sectionContentTitle"> Title & Company</h2>
-      <h3 class="sectionContentSubTitle">Augst 1, 2023&nbsp; &nbsp;</h3>
+      <h3 class="sectionContentSubTitle">August 1, 2023&nbsp; &nbsp;</h3>
       <p class="sectionContent"> This job is meant for me. Every Sunday, I work here, just to get all the themes I need for our upcoming website.&nbsp; &nbsp; &nbsp; </p>
     </article>
     <!-- Replicate the above Div block to add more title and company details --> 
