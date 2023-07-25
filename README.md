@@ -3,12 +3,6 @@ My new repository.
 Indira Soaries, isoaries@my.waketech.edu
 I created this account because I am new to GitHub.
 I used GitHub Desktop to clone the repository by pressing the Clone Repository buttton.
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>About Page template By Adobe Dreamweaver</title>
 <link href="AboutPageAssets/styles/aboutPageStyle.css" rel="stylesheet" type="text/css">
 <!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
 </head>
